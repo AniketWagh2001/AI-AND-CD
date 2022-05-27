@@ -1,0 +1,10 @@
+t = a + v
+r = 6
+u = 8 + r
+a = d - c
+b = a + v
+a = 4
+k = r
+v = 5 + 2
+c = a + v
+b = j
